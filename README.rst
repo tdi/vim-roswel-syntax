@@ -3,7 +3,7 @@
 ROsWeL vim syntax file
 ======================
 
-This is a VIM syntax file for ROsWeL (Resource oriented workflow language) by `Andrzej Stroiński <http://www.cs.put.poznan.pl/astroinski/>`_.
+This is a VIM syntax file for ROsWeL (Resource oriented workflow language) by `Andrzej Stroiński <http://www.cs.put.poznan.pl/anstroinski/>`_.
 
 Installation
 ============
